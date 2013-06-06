@@ -13,3 +13,6 @@ This iRule assumes you have defined four iFiles, being the four basic style mana
 * bootstrap.js
 * modernizr.js
 * the latest jquery.js
+
+And one data-group class:
+* pool_member_status
