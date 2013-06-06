@@ -15,4 +15,5 @@ This iRule assumes you have defined four iFiles, being the four basic style mana
 * the latest jquery.js
 
 And one data-group class:
-* pool_member_status
+* pool_member_status_list
+
