@@ -6,6 +6,8 @@ F5 BIG-IP Pool Member Status Lookup Webpage
 
 This bash script and iRule will generate a webpage for a specified VIP on an F5 BIG-IP that will step through all pool members and return their status: up, down, enabled, disabled.
 
+And for nightly update of the pool member list itself, a crontab entry to fire the script each night at 00:00.
+
 ### External Assets
 
 This iRule assumes you have defined four iFiles, being the four basic style management files from the Twitter Bootstrap package: 
