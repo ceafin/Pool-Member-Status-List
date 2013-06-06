@@ -1,0 +1,1 @@
+0 0 * * * /shared/scripts/pool_member_status_list.sh
